@@ -8,11 +8,12 @@ I'm t-geon, a Repulic of korea
 
 ---
 ### GitHub
-- GitHub Usage Statistics    
-![t-goen님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=t-geon&hide=contribs,issues)
 
 - Language Usage Statistics    
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=t-geon&layout=compact)](https://github.com/t-geon)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=t-geon&hide=Dart&layout=compact)](https://github.com/t-geon)
+
+- GitHub Usage Statistics    
+![t-goen님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=t-geon&hide=contribs,issues)
 
 - GitHub Trophy    
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-geon&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
