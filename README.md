@@ -7,14 +7,19 @@ I'm t-geon, a Repulic of korea
 - 💬 Give me Question [Click](https://github.com/t-geon/t-geon/issues) 
 
 ---
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon2331)](https://solved.ac/geon2331)
-
+### GitHub
+- GitHub Usage Statistics    
 ![t-goen님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=t-geon&hide=contribs,issues)
 
+- Language Usage Statistics    
 [![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=t-geon&layout=compact)](https://github.com/t-geon)
 
+- GitHub trophy    
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-geon&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+    
+    
+### Baekjoon
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geon2331)](https://solved.ac/geon2331)
 
 ---
 
