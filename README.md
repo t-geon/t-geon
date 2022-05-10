@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=T-Geon&fontSize=50&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=150&text=T-Geon&fontSize=50&fontColor=black)
 
 ### Welcome My Space 👋👋👋
 
