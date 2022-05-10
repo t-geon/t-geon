@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=F8E2CF&text=✨%20🖥️%20⌨️%20🖱️%20🎮%20🕹️%20✨&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=T-Geon&fontSize=50&fontolor=black)
 
 ### Welcome My Space 👋👋👋
 
-I'm t-geon, a Repulic of korea   
+I'm t-geon, a Repulic of korea
 - 🤙 This is my [Blog](https://blog.naver.com/geon2331) 
 - 💬 Give me Question [Click](https://github.com/t-geon/t-geon/issues) 
 
