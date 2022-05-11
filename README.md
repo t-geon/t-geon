@@ -3,7 +3,7 @@
 ### Welcome My Space 👋👋👋
 
 I'm t-geon, a Repulic of korea
-- 🤙 This is my [Blog](https://blog.naver.com/geon2331) 
+<!-- - 🤙 This is my [Blog](https://blog.naver.com/geon2331)--> 
 - 💬 Give me Question [Click](https://github.com/t-geon/t-geon/issues) 
 
 ---
